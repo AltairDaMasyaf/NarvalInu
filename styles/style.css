@@ -551,7 +551,7 @@ video {
   align-items: center;
   width: 320px;
   height: auto;
-  padding: 3rem;
+  padding: 2rem;
   font-size: 4rem;
   color: var(--color-primary);
   font-weight: bold;
