@@ -551,8 +551,8 @@ video {
   align-items: center;
   width: 320px;
   height: auto;
-  padding: 2rem;
-  font-size: 4rem;
+  padding: 1rem;
+  font-size: 3rem;
   color: var(--color-primary);
   font-weight: bold;
   clip-path: polygon(
